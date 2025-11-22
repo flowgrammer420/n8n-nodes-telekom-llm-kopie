@@ -9,13 +9,13 @@ import type {
 
 export class TelekomLlmChatModel implements INodeType {
     description: INodeTypeDescription = {
-        displayName: 'Telekom LLM',
-        name: 'telekomLlmChatModel',
+        displayName: 'Telekom ',
+        name: 'telekomChatModel',
         icon: 'file:telekom.svg',
         group: ['transform'],
         version: 1,
-        description: 'T-Systems LLM Hub – OpenAI-compatible Chat Model',
-        defaults: { name: 'Telekom LLM' },
+        description: 'T-Systems  Hub – OpenAI-compatible Chat Model',
+        defaults: { name: 'Telekom ' },
         inputs: ['main'],
         outputs: ['main'],
         credentials: [{ name: 'telekomLlmApi', required: true }],
