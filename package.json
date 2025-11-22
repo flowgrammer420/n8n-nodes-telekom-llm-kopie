@@ -7,7 +7,7 @@
     "author": { "name": "", "email": "" },
     "repository": {
         "type": "git",
-        "url": "https://github.com/flowgrammer420/n8n-nodes-telekom-llm.git"
+        "url": "https://github.com/flowgrammer420/n8n-nodes-telekom-llm-kopie.git"
     },
     "scripts": {
         "build": "n8n-node build",
