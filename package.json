@@ -1,7 +1,7 @@
 {
-    "name": "n8n-nodes-telekom-llm",
+    "name": "n8n-nodes-telekom",
     "version": "0.1.0",
-    "description": "n8n community node for T-Systems LLM Hub - Chat with AI models",
+    "description": "n8n community node for T-Systems Hub - Chat with AI models",
     "license": "MIT",
     "keywords": ["n8n-community-node-package"],
     "author": { "name": "", "email": "" },
