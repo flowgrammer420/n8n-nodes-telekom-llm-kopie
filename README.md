@@ -245,3 +245,19 @@ Have suggestions for improving this starter? [Open an issue](https://github.com/
 ## License
 
 [MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
+
+
+-----------------------------------------------------------------
+
+Notizen
+
+
+1. starter kit laden = n8n default 
+2. customer node laden = hier das repo
+3. Ordner = "custom" in n8n / docker erstellen = n8n --> home/node/.n8n/custom
+4. pnpm install
+5. pnpm run build
+6. win_docker_deploy.bat ausführen für import 
+
+
+
